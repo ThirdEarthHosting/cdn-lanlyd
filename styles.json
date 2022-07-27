@@ -1,17 +1,17 @@
 {
   "colors": {
-    "primary": "#490778",
-    "primaryLight": "#840FFA",
-    "primaryLighter": "#5094f2",
-    "secondary": "#077E78",
-    "secondaryLight": "#077E98",
-    "secondaryLighter": "#53e3a1",
+    "primary": "#022E2E",
+    "primaryLight": "#0D8D8D",
+    "primaryLighter": "#0D8D8D",
+    "secondary": "#0D8D8D",
+    "secondaryLight": "#0D8D8D",
+    "secondaryLighter": "#0D8D8D",
     "tertiary": "#f6e363",
     "tertiaryLight": "#FFF",
-    "primaryDark": "#CE61F2",
+    "primaryDark": "#212529",
     "secondaryDark": "#06B49A",
     "tertiaryDark": "#f6e363",
-    "primaryText": "#333",
+    "primaryText": "#212529",
     "secondaryText": "#555",
     "white": "#fff",
     "dark": "#585858",
@@ -20,7 +20,7 @@
     "blue": "#2f8bfd",
     "lightDark": "#dedede",
     "hover": "#0002",
-    "hoverSecondary": "#30be75",
+    "hoverSecondary": "#0D8D8D",
     "success": "#00FF40",
     "error": "#DB0408",
     "info": "#00CAFF",
@@ -28,8 +28,8 @@
   },
   "fonts": {
     "sanSerif": "san-serif",
-    "appleGroup": "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif",
-    "arialGroup": "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif"
+    "appleGroup": "-apple-system, BlinkMacSystemFont, 'Oxanium', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif",
+    "arialGroup": "'inter', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif"
   },
   "fontSizes": {
     "small": "1em",
