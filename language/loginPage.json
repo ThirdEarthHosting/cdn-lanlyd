@@ -1,0 +1,23 @@
+[
+  {
+    "lang_code": "pt",
+    "content": {
+      "header": "Sign In",
+      "btnLogin": "CLICK HERE"
+    }
+  },
+  {
+    "lang_code": "en",
+    "content": {
+      "header": "Sign In",
+      "btnLogin": "CLICK HERE"
+    }
+  },
+  {
+    "lang_code": "es",
+    "content": {
+      "header": "Sign In",
+      "btnLogin": "CLICK HERE"
+    }
+  }
+]
