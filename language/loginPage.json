@@ -1,5 +1,12 @@
 [
   {
+    "lang_code": "pt",
+    "content": {
+      "header": "Sign In",
+      "btnLogin": "SIGN IN"
+    }
+  },
+  {
     "lang_code": "en",
     "content": {
       "header": "Sign In",
