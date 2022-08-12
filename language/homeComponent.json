@@ -1,19 +1,16 @@
 [
     {
         "lang_code": "pt",
-        "content": {}
+        "content": {
+        }
     },
     {
         "lang_code": "en",
         "content": {
             "banner": {
-                "title": "Start using Urbit. Today.",
-                "description": "Urbit is a personal server. It's a secure home for your digital life—and it's yours forever. Your Urbit can run applications, organize files, send messages, store your cryptocurrency, and even update itself. It's a private, encrypted home base on the internet. All available under one login. Are you ready?",
+                "title": "~lanlyd Hosting Services",
+                "description": "The Urbit network is the place to recapture the real spirit of computing innovation. Are you ready?",
                 "btnLetsGo": "Oh I'm ready!"
-            },
-            "nonexistingsettingbundle": {
-                "setting1": "six",
-                "setting2": "seven"
             }
         }
     }
